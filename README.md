@@ -8,9 +8,10 @@ ESA-2022
 #### Студент: Griaznov Ilia <br/>
 ### Группа: "6231-010402D"
 
-### Средства, используемые для разработки приложения:
-> PyCharm Community Edition 2021.2.1; 
-> PyQt6; 
-> Qt Designer Setup; 
-
+### Средства, используемые для разработки приложения: <br/>
+> PyCharm Community Edition 2021.2.1; <br/>
+> PyQt6; <br/>
+> Qt Designer Setup; <br/>
+<br/>
+<br/>
 ![logo](https://hsto.org/getpro/habr/upload_files/765/a2b/47e/765a2b47e8561b8a21ee2d47cd8c9094.png)
