@@ -2,8 +2,9 @@
 ![logo](https://ssau.ru/pagefiles/of_docs/Firm%20blocks_left-gorizont_naimenovanie_Rus.png)
 
 [Samara University](https://ssau.ru/) <br/>
-ESA-2021
+ESA-2022
 ## Лабораторные работы по курсу "GUI Design Fundamentals". <br/>
+Основы проектирования графического интерфейса компьютерных систем <br/>
 #### Студент: Griaznov Ilia <br/>
 ### Группа: "6231-010402D"
 
