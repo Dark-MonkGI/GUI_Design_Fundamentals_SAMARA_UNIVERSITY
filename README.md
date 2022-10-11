@@ -1,6 +1,4 @@
-# GUI_Design_Fundamentals_SAMARA_UNIVERSITY
-
-# ESA_Laboratory-work 
+# GUI_Design_Fundamentals_Laboratory-work 
 ![logo](https://ssau.ru/pagefiles/of_docs/Firm%20blocks_left-gorizont_naimenovanie_Rus.png)
 
 [Samara University](https://ssau.ru/) <br/>
