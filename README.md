@@ -13,7 +13,7 @@ GUI-2022
 > PyQt6; <br/>
 > Qt Designer Setup; <br/>
 <br/>
-### 1. [Window_with_button/](https://github.com/Dark-MonkGI/GUI_Design_Fundamentals_SAMARA_UNIVERSITY/tree/main/L1_Window_with_button)
-
+### 1. [Window with button](https://github.com/Dark-MonkGI/GUI_Design_Fundamentals_SAMARA_UNIVERSITY/tree/main/L1_Window_with_button)
 <br/>
+
 ![logo](https://hsto.org/getpro/habr/upload_files/765/a2b/47e/765a2b47e8561b8a21ee2d47cd8c9094.png)
