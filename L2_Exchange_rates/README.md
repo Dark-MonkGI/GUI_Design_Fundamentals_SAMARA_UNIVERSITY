@@ -13,3 +13,5 @@ GUI-2022
 Все изменения делать при нажатии на кнопку анализ.
 
 **Язык:**  Python <br/> 
+
+![logo](https://github.com/Dark-MonkGI/GUI_Design_Fundamentals_SAMARA_UNIVERSITY/blob/main/L2_Exchange_rates/Example.jpg)
