@@ -1,12 +1,5 @@
 from PyQt6 import QtCore, QtGui, QtWidgets
-from PyQt6.QtWidgets import QMessageBox, QLineEdit
-from PyQt6.QtWidgets import QPushButton, QApplication, QMainWindow, QLabel, QLineEdit, QFormLayout, QWidget, QMessageBox
-import sys
-import sys
 from PyQt6 import QtWidgets
-
-from PyQt6.QtCore import QRect
-from PyQt6.QtWidgets import QApplication, QPushButton, QLineEdit, QLabel, QMessageBox
 from PyQt6.QtCore import pyqtSignal, QObject
 
 
@@ -16,7 +9,7 @@ class Ui_MainWindow(object):
         self.exchange_rate = 0.016
         self.barrel_of_oil_price = 80.1
 
-        self.oil = 5
+        self.oil = 1
 
         self.usd = round(self.oil * self.barrel_of_oil_price, 2)
         self.rub = round(self.usd / self.exchange_rate, 2)
