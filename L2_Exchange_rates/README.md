@@ -3,7 +3,7 @@
 Samara University <br/>
 GUI-2022
 
-## LB2.[Main](https://github.com/Dark-MonkGI/GUI_Design_Fundamentals_SAMARA_UNIVERSITY/blob/main/L2_Exchange_rates/main.py)
+## LB2.[Main](https://github.com/Dark-MonkGI/GUI_Design_Fundamentals_SAMARA_UNIVERSITY/blob/main/L2_Exchange_rates/main_lab_work_2.py)
 
 **Задача:** Реализовать приложение на PyQt с использованием сигнал-слот взаимодействия. <br/>
 Например, приложение генератор курсов валют на торговом рынке, хранящий три связанных курса: рубль –доллар и котировку текущей стоимости нефти.
