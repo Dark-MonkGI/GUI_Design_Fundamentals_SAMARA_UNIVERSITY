@@ -14,8 +14,6 @@ class Ui_MainWindow(object):
         self.usd = round(self.oil * self.barrel_of_oil_price, 2)
         self.rub = round(self.usd / self.exchange_rate, 2)
 
-
-
         self.rubChange = ChangeRub()
         self.usdChange = ChangeUsd()
 
@@ -55,13 +53,6 @@ class Ui_MainWindow(object):
         self.textEdit_1.setObjectName("textEdit_1")
         self.textEdit_1.setText(str(self.rub))
         self.textEdit_1.setReadOnly(True)
-
-
-
-        # self.textEdit_2 = QLineEdit(self)
-        # ddd = self.textEdit_1.text
-
-
 
         self.label_2 = QtWidgets.QLabel(self.centralwidget)
         self.label_2.setGeometry(QtCore.QRect(80, 140, 70, 50))
@@ -107,18 +98,13 @@ class Ui_MainWindow(object):
         self.statusbar.setObjectName("statusbar")
         MainWindow.setStatusBar(self.statusbar)
 
-
         self.rubChange.update_signal.connect(self.rubChange.update_value)
         self.usdChange.update_signal.connect(self.usdChange.update_value)
 
         self.pushButton_1.clicked.connect(self.analysis)
 
-
         self.retranslateUi(MainWindow)
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
-
-
-
 
     def analysis(self):
         if self.oil == float(self.textEdit_3.toPlainText()):
@@ -132,8 +118,6 @@ class Ui_MainWindow(object):
             self.textEdit_1.setText(self.usdChange.value)
             self.textEdit_2.setText(str(float(self.textEdit_2.toPlainText()) + float(self.textEdit_3.toPlainText())))
         self.oil = float(self.textEdit_3.toPlainText())
-
-
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
@@ -165,7 +149,6 @@ class ChangeUsd(QObject):
 
     def update_value(self, new_value: float, price: float):
         self.value = str(price / new_value)
-
 
 
 if __name__ == "__main__":
