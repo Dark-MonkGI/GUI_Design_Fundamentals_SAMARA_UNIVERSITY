@@ -16,6 +16,7 @@ GUI-2022
 
 ### 1. [Window with button](https://github.com/Dark-MonkGI/GUI_Design_Fundamentals_SAMARA_UNIVERSITY/tree/main/L1_Window_with_button)
 <br/>
+
 ### 2. [Exchange rates](https://github.com/Dark-MonkGI/GUI_Design_Fundamentals_SAMARA_UNIVERSITY/tree/main/L2_Exchange_rates)
 <br/>
 
